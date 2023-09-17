@@ -1,16 +1,20 @@
-### Hi there 👋
+# Seja Bem vindo 👋
 
-<!--
-**Vettoferreira/vettoferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá me chamo Elivelton e estou em transação de carreira para me tornar um desenvolvedor Back-End <br />
+A programação é o meio que encontrei para tirar meus projetos do papel e ajudar as pessoas através da tecnologia
+Nesse perfil estarei postando meus projetos de estudos feitos em **JAVASCRIPT** para a [cubosacademy](https://cubos.academy/) <br />
+A melhor plataforma de estudos em Tecnologia da atualidade :clap: 
 
-Here are some ideas to get you started:
+### ⚔️ HardSkills
+![Javascript](https://img.shields.io/badge/JavaScript-726DA8?style=for-the-badge&logo=javascript&logoColor=white) 
+![Nodejs](https://img.shields.io/badge/Node%20js-726DA8?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![GIT](https://img.shields.io/badge/GIT-F95738?style=for-the-badge&logo=git&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-726DA8?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### contatos 📲
+
+[![image-linkedin](https://img.shields.io/badge/LinkedIn-726DA8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elivelton-ferreiraa/)
+<a href= "mailto:eliveltoncleones@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-F95738?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a>
+
