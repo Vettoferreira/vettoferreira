@@ -1,7 +1,7 @@
 # Seja Bem vindo 👋
 
 Olá me chamo Elivelton e estou em transação de carreira para me tornar um desenvolvedor Back-End <br />
-A programação é o meio que encontrei para tirar meus projetos do papel e ajudar as pessoas através da tecnologia
+A programação é o meio que encontrei para tirar meus projetos do papel e ajudar as pessoas através da tecnologia <br />
 Nesse perfil estarei postando meus projetos de estudos feitos em **JAVASCRIPT** para a [cubosacademy](https://cubos.academy/) <br />
 A melhor plataforma de estudos em Tecnologia da atualidade :clap: 
 
